@@ -93,6 +93,16 @@ python hello.py
 
 ✅ Output: Hello DevOps
 
+## Screenshots
+ <img src="./images/result1.png" alt="screenshot" width="800"/>
+
+## Screenshots
+ <img src="./images/result2.png" alt="screenshot" width="800"/>
+
+ ## Screenshots
+ <img src="./images/result3.png" alt="screenshot" width="800"/>
+
+
 📖 What I Learned
 
 Difference between merge and rebase
