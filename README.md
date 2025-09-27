@@ -44,12 +44,14 @@ By completing this task, I learned how to:
 
 ## 📂 Project Structure
 
+```bash
 devops-task4/
-│── README.md # Project documentation
-│── hello.py # Example feature script
-│── .gitignore # Ignored files
-│── TASK4_NOTES.md # Detailed notes on the task
-│── images/ # Screenshots and project images
+│── README.md          # Project documentation
+│── hello.py           # Example feature script
+│── .gitignore         # Ignored files
+│── TASK4_NOTES.md     # Detailed notes on the task
+│── images/            # Screenshots and project images
+
 
 
 Branches used:
