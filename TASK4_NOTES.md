@@ -16,7 +16,7 @@
 - Importance of .gitignore
 - How to tag versions
 
-  DevOps Git Practice Project – Task 4 🚀
+ DevOps Git Practice Project – Task 4 🚀
 📌 Objective
 
 This project is part of Task 4: Build a Version-Controlled DevOps Project with Git.
